@@ -1,4 +1,6 @@
 # Task Manager Application
+## Used
+vite with tailwind css and react-icons
 
 ## About
 
